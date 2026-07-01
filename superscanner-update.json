@@ -8,7 +8,7 @@
     "update_url": "https://play.google.com/store/apps/details?id=com.superscanner.pdfdocs"
   },
   "promo_banner": {
-    "show_banner": true,
+    "show_banner": false,
     "banner_id": "promo_v2_new",
     "image_url": "",
     "heading": "Try PDF Compressor Pro!",
