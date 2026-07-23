@@ -1,0 +1,12 @@
+{
+  "min_version": "1.0.0",
+  "latest_version": "1.1.0",
+  "update_url": "https://play.google.com/store/apps/details?id=com.gujarat.satbara.satbara_gujarat",
+  "title_gu": "નવું અપડેટ ઉપલબ્ધ છે 🚀",
+  "title_en": "Update Available 🚀",
+  "title_hi": "नया अपडेट उपलब्ध है 🚀",
+  "message_gu": "એપનું નવું વર્ઝન પ્લે સ્ટોર પર ઉપલબ્ધ છે. કૃપા કરીને નવી સુવિધાઓ અને વધુ સારા અનુભવ માટે અપડેટ કરો.",
+  "message_en": "A new version of the app is available on the Play Store. Please update to access the latest features and improvements.",
+  "message_hi": "ऐप का नया संस्करण प्ले स्टोर पर उपलब्ध है। कृपया नवीनतम सुविधाओं और सुधारों के लिए अपडेट करें।",
+  "force_update": false
+}
