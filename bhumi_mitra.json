@@ -4,20 +4,14 @@
   "update_url": "https://play.google.com/store/apps/details?id=com.bhumi.app.bhumi_mitra",
   "is_force_update": true,
   "message": "नवीन अपडेट उपलब्ध आहे! कृपया अधिक चांगल्या अनुभवासाठी ॲप अपडेट करा. (New update available! Please update for a better experience.)",
-
+  "payment_url": "https://rzp.io/rzp/digital-satbara-fees",
   "banner": {
     "active": true,
-
     "heading": "🎉 भूमी मित्र मध्ये आपले स्वागत आहे!",
-
-    "body": "आता सातबारा, ८अ उतारा आणि भूनकाशा एका क्लिकवर डाउनलोड करा. ॲप शेअर करा आणि सर्वांना मदत करा!",
-
+    "body": "आता सातबारा, ८अ उतारा आणि भू नकाशा एका क्लिकवर डाउनलोड करा. ॲप शेअर करा आणि सर्वांना मदत करा!",
     "image_url": "",
-
     "button_text": "📲 ॲप शेअर करा",
     "button_url": "https://play.google.com/store/apps/details?id=com.bhumi.app.bhumi_mitra",
-
-    "dismiss_label": "×"
+    "dismiss_label": "x"
   }
 }
-
