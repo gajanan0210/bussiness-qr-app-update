@@ -10,7 +10,7 @@
   "message_hi": "ऐप का नया संस्करण प्ले स्टोर पर उपलब्ध है। कृपया नवीनतम सुविधाओं और सुधारों के लिए अपडेट करें।",
   "force_update": false,
   "promo_ad": {
-    "enabled":true,
+    "enabled":false,
     "ad_type": "modal",
     "heading_gu": "સ્પેશિયલ ફ્લેગશિપ એપ & નવી સુવિધાઓ! 🚀",
     "heading_en": "Special Featured App & New Features! 🚀",
