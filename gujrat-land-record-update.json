@@ -11,7 +11,7 @@
   "force_update": false,
   "promo_ad": {
     "enabled":true,
-    "ad_type": "card",
+    "ad_type": "modal",
     "heading_gu": "સ્પેશિયલ ફ્લેગશિપ એપ & નવી સુવિધાઓ! 🚀",
     "heading_en": "Special Featured App & New Features! 🚀",
     "heading_hi": "विशेष ऐप और नई सुविधाएं! 🚀",
