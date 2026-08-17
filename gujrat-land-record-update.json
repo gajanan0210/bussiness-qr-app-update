@@ -8,5 +8,20 @@
   "message_gu": "એપનું નવું વર્ઝન પ્લે સ્ટોર પર ઉપલબ્ધ છે. કૃપા કરીને નવી સુવિધાઓ અને વધુ સારા અનુભવ માટે અપડેટ કરો.",
   "message_en": "A new version of the app is available on the Play Store. Please update to access the latest features and improvements.",
   "message_hi": "ऐप का नया संस्करण प्ले स्टोर पर उपलब्ध है। कृपया नवीनतम सुविधाओं और सुधारों के लिए अपडेट करें।",
-  "force_update": false
+  "force_update": false,
+  "promo_ad": {
+    "enabled":true,
+    "ad_type": "card",
+    "heading_gu": "સ્પેશિયલ ફ્લેગશિપ એપ & નવી સુવિધાઓ! 🚀",
+    "heading_en": "Special Featured App & New Features! 🚀",
+    "heading_hi": "विशेष ऐप और नई सुविधाएं! 🚀",
+    "description_gu": "અમારી નવી અધિકૃત એપ ડાઉનલોડ કરો અને વધુ સેવાઓનો સીધો લાભ મેળવો.",
+    "description_en": "Download our newly launched app to access exclusive features and services directly.",
+    "description_hi": "विशेष सुविधाओं और सेवाओं तक पहुँचने के लिए हमारा नया ऐप डाउनलोड करें।",
+    "image_url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&auto=format&fit=crop&q=80",
+    "button_text_gu": "હમણાં ડાઉનલોડ કરો ➔",
+    "button_text_en": "Download Now ➔",
+    "button_text_hi": "अभी डाउनलोड करें ➔",
+    "redirect_url": "https://play.google.com/store/apps/details?id=com.gujarat.satbara.satbara_gujarat"
+  }
 }
