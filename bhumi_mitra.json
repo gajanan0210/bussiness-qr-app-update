@@ -6,7 +6,7 @@
   "message": "नवीन अपडेट उपलब्ध आहे! कृपया अधिक चांगल्या अनुभवासाठी ॲप अपडेट करा. (New update available! Please update for a better experience.)",
   "payment_url": "https://rzp.io/rzp/digital-satbara-fees",
   "banner": {
-    "active": true,
+    "active": false,
     "heading": "🎉दररोजचे ताजे बाजारभाव, एका क्लिकवर!",
     "body": "✔️ महाराष्ट्रातील बाजार समित्यांचे ताजे भाव  ✔️ जलद, अचूक आणि विश्वासार्ह माहिती",
     "image_url": "https://i.ibb.co/kVXxp4qJ/bajarbhav-baner.png",
