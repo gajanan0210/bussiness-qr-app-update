@@ -1,6 +1,6 @@
 {
   "app_update": {
-    "enabled": true,
+    "enabled": false,
     "latest_version": "1.0.1",
     "latest_version_code": 2,
     "min_supported_version_code": 1,
@@ -12,7 +12,7 @@
     "app_url": "https://play.google.com/store/apps/details?id=com.measureyourland.gpsmeasure"
   },
   "house_ads": {
-    "enabled": true,
+    "enabled": false,
     "bottom_banner": {
       "enabled": true,
       "tag": "Recommended",
@@ -23,7 +23,7 @@
       "image_url": "https://raw.githubusercontent.com/gajanan0210/measure-land-by-map/main/assets/images/app_logo.png"
     },
     "popup_modal": {
-      "enabled": false,
+      "enabled": true,
       "tag": "Featured Update",
       "heading": "Professional Land Measurement",
       "description": "Upgrade your surveying precision with automated boundary corner detection, multi-unit conversions (Bigha, Hectare, Sq.Ft), and instant plot sharing.",
