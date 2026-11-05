@@ -1,0 +1,35 @@
+{
+  "app_update": {
+    "enabled": true,
+    "latest_version": "1.0.1",
+    "latest_version_code": 2,
+    "min_supported_version_code": 1,
+    "force_update": false,
+    "title": "New Update Available!",
+    "message": "A newer version of Measure Your Land: GPS MEASURE is available with enhanced GPS accuracy, improved satellite parcel boundaries, and faster land unit conversions. Please update to continue enjoying the best experience.",
+    "button_text": "Update Now",
+    "later_button_text": "Maybe Later",
+    "app_url": "https://play.google.com/store/apps/details?id=com.measureyourland.gpsmeasure"
+  },
+  "house_ads": {
+    "enabled": true,
+    "bottom_banner": {
+      "enabled": true,
+      "tag": "Recommended",
+      "heading": "Try Boundary Walk GPS",
+      "description": "Walk any field perimeter with real-time GPS boundary mapping and instant Acre/Guntha calculation.",
+      "button_text": "Install Free",
+      "button_link": "https://play.google.com/store/apps/details?id=com.measureyourland.gpsmeasure",
+      "image_url": "https://raw.githubusercontent.com/gajanan0210/measure-land-by-map/main/assets/images/app_logo.png"
+    },
+    "popup_modal": {
+      "enabled": false,
+      "tag": "Featured Update",
+      "heading": "Professional Land Measurement",
+      "description": "Upgrade your surveying precision with automated boundary corner detection, multi-unit conversions (Bigha, Hectare, Sq.Ft), and instant plot sharing.",
+      "button_text": "Learn More",
+      "button_link": "https://play.google.com/store/apps/details?id=com.measureyourland.gpsmeasure",
+      "image_url": "https://raw.githubusercontent.com/gajanan0210/measure-land-by-map/main/assets/images/app_logo.png"
+    }
+  }
+}
