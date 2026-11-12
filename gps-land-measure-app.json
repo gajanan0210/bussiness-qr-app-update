@@ -23,7 +23,7 @@
       "image_url": "https://raw.githubusercontent.com/gajanan0210/measure-land-by-map/main/assets/images/app_logo.png"
     },
     "popup_modal": {
-      "enabled": true,
+      "enabled": false,
       "tag": "Featured Update",
       "heading": "Professional Land Measurement",
       "description": "Upgrade your surveying precision with automated boundary corner detection, multi-unit conversions (Bigha, Hectare, Sq.Ft), and instant plot sharing.",
